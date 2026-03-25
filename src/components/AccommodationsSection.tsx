@@ -9,6 +9,11 @@ import paraisoLago4 from "@/assets/paraiso-lago-4.jpg";
 import casaCampo1 from "@/assets/casa-campo-1.jpg";
 import casaCampo2 from "@/assets/casa-campo-2.jpg";
 import casaCampo3 from "@/assets/casa-campo-3.jpg";
+import cabanaPedras1 from "@/assets/cabana-pedras-1.jpg";
+import cabanaPedras2 from "@/assets/cabana-pedras-2.jpg";
+import cabanaPedras3 from "@/assets/cabana-pedras-3.jpg";
+import cabanaPedras4 from "@/assets/cabana-pedras-4.jpg";
+import cabanaPedras5 from "@/assets/cabana-pedras-5.jpg";
 
 const WHATSAPP_BASE = "https://wa.me/5527992799538";
 
@@ -34,7 +39,7 @@ const accommodations = [
     description: "A essência da experiência: natureza, pedra e madeira em perfeita harmonia.",
     price: "R$ 950",
     message: "Olá! Gostaria de saber mais sobre a Cabana Paraíso das Pedras e disponibilidade.",
-    images: [],
+    images: [cabanaPedras1, cabanaPedras2, cabanaPedras3, cabanaPedras4, cabanaPedras5],
   },
   {
     name: "Suíte para Casal",
