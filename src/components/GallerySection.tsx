@@ -9,6 +9,11 @@ import paraisoLago4 from "@/assets/paraiso-lago-4.jpg";
 import casaCampo1 from "@/assets/casa-campo-1.jpg";
 import casaCampo2 from "@/assets/casa-campo-2.jpg";
 import casaCampo3 from "@/assets/casa-campo-3.jpg";
+import cabanaPedras1 from "@/assets/cabana-pedras-1.jpg";
+import cabanaPedras2 from "@/assets/cabana-pedras-2.jpg";
+import cabanaPedras3 from "@/assets/cabana-pedras-3.jpg";
+import cabanaPedras4 from "@/assets/cabana-pedras-4.jpg";
+import cabanaPedras5 from "@/assets/cabana-pedras-5.jpg";
 
 const photos = [
   { src: paraisoLago1, label: "Paraíso do Lago" },
@@ -18,6 +23,11 @@ const photos = [
   { src: casaCampo1, label: "Refúgio Casa de Campo" },
   { src: casaCampo2, label: "Refúgio Casa de Campo" },
   { src: casaCampo3, label: "Refúgio Casa de Campo" },
+  { src: cabanaPedras1, label: "Cabana Paraíso das Pedras" },
+  { src: cabanaPedras2, label: "Cabana Paraíso das Pedras" },
+  { src: cabanaPedras3, label: "Cabana Paraíso das Pedras" },
+  { src: cabanaPedras4, label: "Cabana Paraíso das Pedras" },
+  { src: cabanaPedras5, label: "Cabana Paraíso das Pedras" },
 ];
 
 const GallerySection = () => {

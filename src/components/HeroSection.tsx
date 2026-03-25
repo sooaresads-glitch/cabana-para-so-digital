@@ -13,7 +13,7 @@ const HeroSection = () => {
         width={1920}
         height={1080}
       />
-      <div className="absolute inset-0 bg-foreground/50" />
+      <div className="absolute inset-0 bg-foreground/60" />
       
       <motion.div
         initial={{ opacity: 0, y: 40 }}
