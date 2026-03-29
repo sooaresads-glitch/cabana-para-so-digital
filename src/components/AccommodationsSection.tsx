@@ -15,7 +15,7 @@ import cabanaPedras3 from "@/assets/cabana-pedras-3.jpg";
 import cabanaPedras4 from "@/assets/cabana-pedras-4.jpg";
 import cabanaPedras5 from "@/assets/cabana-pedras-5.jpg";
 
-const WHATSAPP_BASE = "https://wa.me/5527992799538";
+const WHATSAPP_BASE = "https://wa.me/5547991916682";
 
 const accommodations = [
   {
