@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { MessageCircle, X, Home, MapPin, CalendarCheck } from "lucide-react";
 
-const WHATSAPP_BASE = "https://wa.me/5527992799538";
+const WHATSAPP_BASE = "https://wa.me/5547991916682";
 
 const FloatingButtons = () => {
   const [open, setOpen] = useState(false);

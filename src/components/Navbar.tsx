@@ -7,7 +7,7 @@ const links = [
   { label: "Localização", href: "#localizacao" },
 ];
 
-const WHATSAPP_BASE = "https://wa.me/5527992799538";
+const WHATSAPP_BASE = "https://wa.me/5547991916682";
 
 const Navbar = () => {
   const [scrolled, setScrolled] = useState(false);
